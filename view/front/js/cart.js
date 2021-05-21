@@ -1,0 +1,3 @@
+function updatePrices(){
+    alert('test');
+}
